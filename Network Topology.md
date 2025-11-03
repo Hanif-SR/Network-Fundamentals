@@ -1,4 +1,4 @@
-## Networking through topology design
+# Networking through topology design
 
 ![image](https://github.com/user-attachments/assets/5c69f383-f5e9-4492-a5c7-ead2359d3be6)
 
